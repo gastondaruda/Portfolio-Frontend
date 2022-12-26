@@ -1,0 +1,60 @@
+.beforeAfter{
+    position: relative;
+}
+    .beforeAfter:before{
+        content: '<h1>';
+        font-family: 'La Belle Aurore', cursive;
+        color: #ffd700;
+        font-size: 18px;
+        position: absolute;
+        top: 10px;
+        margin-left: -2rem;
+}
+    .beforeAfter:after{
+        content: '</h1>';
+        font-family: 'La Belle Aurore', cursive;
+        color: #ffd700;
+        font-size: 18px;
+        position: absolute;
+        bottom: -10px;
+        margin-left: -2rem;
+        left: 0
+    }
+
+.text-animate {
+    display: inline-block;
+    opacity: 0;
+    font-size: 54px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 53px;
+    animation: bounceIn;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    min-width: 10px;
+    margin: 1rem auto;
+}
+
+.text-animate-hover {
+min-width: 10px;
+display: inline-block;
+animation-fill-mode: both;
+color: #fff;
+font-size: 54px;
+font-weight: bold;
+line-height: 53px;
+margin: 1rem auto;
+
+&:hover {
+    animation: rubberBand 1s;
+    color: #ffd700;
+    cursor: pointer;
+}
+}
+
+@for $i from 1 through 40 {
+.text-animate._#{$i} {
+    animation-delay: #{$i / 10}s;
+}
+}

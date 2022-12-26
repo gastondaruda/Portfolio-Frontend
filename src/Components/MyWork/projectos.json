@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Proyecto React Js",
+      "url": "https://github.com/gastondaruda/react",
+      "gitpages": "https://gastondaruda.github.io/react/",
+      "herramient": "React Js",
+      "year": "2022"
+    },
+    {
+      "name": "OneSearch Uy",
+      "url": "https://github.com/onesearch-uy/onesearch-landing",
+      "gitpages": "https://onesearch-uy.github.io/onesearch-landing/",
+      "herramient": "Javascript",
+      "year": "2022"
+    },
+    {
+      "name": "Recetas Api",
+      "url": "https://github.com/gastondaruda/RecetasReactJs",
+      "gitpages": "https://gastondaruda.github.io/RecetasReactJs/",
+      "herramient": "React Js",
+      "year": "2022"
+    },
+    {
+      "name": "Criptomonedas Api",
+      "url": "https://github.com/gastondaruda/criptomonedas",
+      "gitpages": "https://gastondaruda.github.io/criptomonedas/",
+      "herramient": "React Js",
+      "year": "2022"
+    },
+    {
+      "name": "Proyecto Javascript",
+      "url": "https://github.com/gastondaruda/javascript",
+      "gitpages": "https://gastondaruda.github.io/javascript/",
+      "herramient": "Javascript",
+      "year": "2022"
+    },
+    {
+      "name": "Proyecto Desarrollo Web",
+      "url": "https://github.com/gastondaruda/coderhouse",
+      "gitpages": "https://gastondaruda.github.io/coderhouse/",
+      "herramient": "Bootstrap y Css",
+      "year": "2022"
+    }
+  ]

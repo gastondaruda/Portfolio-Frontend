@@ -1,0 +1,19 @@
+.skilsContainer{
+    width: 50%;
+    height: 50vh;
+    border: 2px solid red;
+}
+.iconsContainer{
+    width: 50%;
+    border: 2px solid red;
+    height: 50vh;
+
+    .iconAnimation{
+        font-size: 7rem;
+        margin: 0 1rem;
+        &:hover{
+            animation: rubberBand 1s;
+            cursor: pointer;
+        }
+    }
+}
