@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio3.0/static/css/main.21f6dfcd.css",
-    "main.js": "/portfolio3.0/static/js/main.a7d1e566.js",
+    "main.css": "/portfolio3.0/static/css/main.7372f738.css",
+    "main.js": "/portfolio3.0/static/js/main.7f82bc6e.js",
     "static/js/787.ecc693e5.chunk.js": "/portfolio3.0/static/js/787.ecc693e5.chunk.js",
     "static/media/react.png": "/portfolio3.0/static/media/react.635f0cd5136fefe1189e.png",
     "static/media/desarrolloWeb.png": "/portfolio3.0/static/media/desarrolloWeb.eaeb7320c62e2b735a60.png",
@@ -13,12 +13,12 @@
     "static/media/pokemon.png": "/portfolio3.0/static/media/pokemon.1923056a06241f600c79.png",
     "static/media/bitcoin.png": "/portfolio3.0/static/media/bitcoin.aabacbe05ce27f053d33.png",
     "index.html": "/portfolio3.0/index.html",
-    "main.21f6dfcd.css.map": "/portfolio3.0/static/css/main.21f6dfcd.css.map",
-    "main.a7d1e566.js.map": "/portfolio3.0/static/js/main.a7d1e566.js.map",
+    "main.7372f738.css.map": "/portfolio3.0/static/css/main.7372f738.css.map",
+    "main.7f82bc6e.js.map": "/portfolio3.0/static/js/main.7f82bc6e.js.map",
     "787.ecc693e5.chunk.js.map": "/portfolio3.0/static/js/787.ecc693e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21f6dfcd.css",
-    "static/js/main.a7d1e566.js"
+    "static/css/main.7372f738.css",
+    "static/js/main.7f82bc6e.js"
   ]
 }
