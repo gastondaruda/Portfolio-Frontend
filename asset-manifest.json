@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio3.0/static/css/main.e728297a.css",
-    "main.js": "/portfolio3.0/static/js/main.bf6e8106.js",
+    "main.css": "/portfolio3.0/static/css/main.5e6baa7d.css",
+    "main.js": "/portfolio3.0/static/js/main.e36fa054.js",
     "static/js/787.ecc693e5.chunk.js": "/portfolio3.0/static/js/787.ecc693e5.chunk.js",
     "static/media/react.png": "/portfolio3.0/static/media/react.635f0cd5136fefe1189e.png",
     "static/media/desarrolloWeb.png": "/portfolio3.0/static/media/desarrolloWeb.eaeb7320c62e2b735a60.png",
@@ -9,16 +9,17 @@
     "static/media/moviedb.png": "/portfolio3.0/static/media/moviedb.54b835a39a13188a9c65.png",
     "static/media/recetas.png": "/portfolio3.0/static/media/recetas.be6dfff563017fcc0ccc.png",
     "static/media/onesearch.png": "/portfolio3.0/static/media/onesearch.d36a579290986aa96821.png",
+    "static/media/resume.pdf": "/portfolio3.0/static/media/resume.4da3f4c55e5172172ccb.pdf",
     "static/media/rock.png": "/portfolio3.0/static/media/rock.ab36eebc8f7c63f2cf93.png",
     "static/media/pokemon.png": "/portfolio3.0/static/media/pokemon.1923056a06241f600c79.png",
     "static/media/bitcoin.png": "/portfolio3.0/static/media/bitcoin.aabacbe05ce27f053d33.png",
     "index.html": "/portfolio3.0/index.html",
-    "main.e728297a.css.map": "/portfolio3.0/static/css/main.e728297a.css.map",
-    "main.bf6e8106.js.map": "/portfolio3.0/static/js/main.bf6e8106.js.map",
+    "main.5e6baa7d.css.map": "/portfolio3.0/static/css/main.5e6baa7d.css.map",
+    "main.e36fa054.js.map": "/portfolio3.0/static/js/main.e36fa054.js.map",
     "787.ecc693e5.chunk.js.map": "/portfolio3.0/static/js/787.ecc693e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e728297a.css",
-    "static/js/main.bf6e8106.js"
+    "static/css/main.5e6baa7d.css",
+    "static/js/main.e36fa054.js"
   ]
 }
